@@ -15,7 +15,7 @@
 Single-line comments are created using double slash.</p>
 <pre class=" language-c"><code class="prism -sharp language-c"><span class="token comment">// This is a single-line comment</span>
 </code></pre>
-<p>Multi-line comments start with /** and end with **/</p>
+<p>Multi-line comments start with <strong>/**</strong> and end with <strong>**/</strong></p>
 <pre class=" language-c"><code class="prism -sharp language-c"><span class="token comment">/**
  * This is a multi-line comment
  **/</span>
