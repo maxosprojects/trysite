@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>introduction</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><p>First, let’s create a new project and call it <strong>SEIntro</strong>:</p>
+---
+
+<p>First, let’s create a new project and call it <strong>SEIntro</strong>:</p>
 <ol>
 <li>Open <strong>Visual Studio 2019</strong></li>
 <li>Select menu <strong>File &gt; New &gt; Project</strong></li>
@@ -93,7 +87,4 @@ public void Main(string argument, UpdateType updateSource)
     // can be removed if not needed.
 }
 </code></pre>
-</div>
-</body>
 
-</html>
