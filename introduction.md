@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>introduction</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><hr>
+---
+
+<hr>
 <p>layout: post</p>
 <p>title: “Welcome to Jekyll!”</p>
 <p>date: 2019-09-16 20:45:02 -0700</p>
@@ -160,7 +154,4 @@
 <span class="token punctuation">}</span>
 
 </code></pre>
-</div>
-</body>
 
-</html>
