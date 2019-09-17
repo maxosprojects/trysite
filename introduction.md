@@ -13,10 +13,10 @@
 </ol>
 <p>There are two types of comments in C# – single-line and multi-line.<br>
 Single-line comments are created using double slash.</p>
-<pre class=" language-c"><code class="prism -sharp language-c"><span class="token comment">// This is a single-line comment</span>
+<pre class=" language-csharp"><code class="prism  language-csharp"><span class="token comment">// This is a single-line comment</span>
 </code></pre>
 <p>Multi-line comments start with <strong>/**</strong> and end with <strong>**/</strong></p>
-<pre class=" language-c"><code class="prism -sharp language-c"><span class="token comment">/**
+<pre class=" language-csharp"><code class="prism  language-csharp"><span class="token comment">/**
  * This is a multi-line comment
  **/</span>
 </code></pre>
